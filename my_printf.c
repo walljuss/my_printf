@@ -21,7 +21,6 @@ int get_long_hex_length(uintptr_t x);//returns number of int required for string
 int main(){
 
 
-
    return 0;
 }
 
@@ -346,4 +345,5 @@ void write_ptr_part(int* tot_char){
     };
   free(temp);
 }
+
 
